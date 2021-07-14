@@ -10,7 +10,7 @@
 
 - :books: I'm currently learning everything, focusing more on Back-End.
 
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> Fun fact: God of War is my favorite game 🎮
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> Fun fact: God of War is my favorite game. 🎮
 
 ## About me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
