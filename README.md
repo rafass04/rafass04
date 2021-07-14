@@ -2,7 +2,7 @@
 
 ## I'm Rafaela Silva!
 
- - :computer: “I’m a software engineer intern at XP Inc..
+ - :computer: I’m a software engineer intern at XP Inc..
 
 - 👩‍🎓 Studying Computer Science at Universidade Paulista.
 
