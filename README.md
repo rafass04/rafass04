@@ -4,7 +4,7 @@
 
  - :computer: I’m a software engineer.
 
-- 👩‍🎓 Studying Computer Science at Universidade Paulista.
+- 👩‍🎓 Graduated Computer Science at Universidade Paulista.
 
 - :house_with_garden: I’m from Brazil.
 
